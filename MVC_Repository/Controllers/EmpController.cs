@@ -1,9 +1,6 @@
 ﻿using MVC_Repository.Models;
 using MVC_Repository.repository;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.Mvc;
 
 namespace MVC_Repository.Controllers

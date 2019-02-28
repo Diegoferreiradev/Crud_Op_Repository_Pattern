@@ -45,10 +45,5 @@ namespace MVC_Repository.repository
             DBContext.SaveChanges();
         }
 
-        public void Save()
-        {
-            throw new NotImplementedException();
-        }
-
     }
 }

@@ -10,6 +10,5 @@ namespace MVC_Repository.repository
         Employee GetEmployeeByID(int employeeid);
         void UpdateEmployee(Employee employee);
         void DeleteEmployee(int employeeid);
-        void Save();
     }
 }
